@@ -1,0 +1,7 @@
+|T_flipflop
+clk => Q~reg0.CLK
+rst => Q~reg0.ACLR
+T => Q~reg0.ENA
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
